@@ -1,1 +1,1 @@
-# Akbank-Derin-Ogrenme-Bootcamp
+[# Akbank-Derin-Ogrenme-Bootcamp](https://www.kaggle.com/code/alperenkurtt/deeplearningbootcamp)
