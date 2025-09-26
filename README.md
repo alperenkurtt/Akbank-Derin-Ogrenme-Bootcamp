@@ -228,4 +228,5 @@ Proje başarıyla tamamlanmış ve %98+ doğruluk oranına sahip bir CNN modeli 
 - Veri seti Kaggle'dan indirilmiştir
 - Tüm kodlar Jupyter Notebook formatında hazırlanmıştır
 
-[Kaggle Link](https://www.kaggle.com/code/alperenkurtt/deeplearningbootcamp)
+## Kaggle Link
+- https://www.kaggle.com/code/alperenkurtt/deeplearningbootcamp
