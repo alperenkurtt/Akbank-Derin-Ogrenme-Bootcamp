@@ -1,4 +1,4 @@
-# Akbank Derin Öğrenme Bootcamp - Pneumonia Hastalığı Tahmini - [# Kaggle Link](https://www.kaggle.com/code/alperenkurtt/deeplearningbootcamp)
+# Akbank Derin Öğrenme Bootcamp - Pneumonia Hastalığı Tahmini - [Kaggle Link](https://www.kaggle.com/code/alperenkurtt/deeplearningbootcamp)
 
 Bu proje, göğüs röntgeni görüntülerinden pnömoni teşhisi koymak için geliştirilmiş bir CNN (Convolutional Neural Network) modelini içermektedir.
 
@@ -228,4 +228,4 @@ Proje başarıyla tamamlanmış ve %98+ doğruluk oranına sahip bir CNN modeli 
 - Veri seti Kaggle'dan indirilmiştir
 - Tüm kodlar Jupyter Notebook formatında hazırlanmıştır
 
-[# Kaggle Link](https://www.kaggle.com/code/alperenkurtt/deeplearningbootcamp)
+[Kaggle Link](https://www.kaggle.com/code/alperenkurtt/deeplearningbootcamp)
